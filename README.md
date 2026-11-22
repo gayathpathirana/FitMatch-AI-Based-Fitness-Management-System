@@ -534,28 +534,22 @@ The following section can showcase the actual FitMatch application.
 **Add your own screenshots to the repository and update the image paths below.**
 
 ### Home Page
-
-![FitMatch Home Page](screenshots/home-page.png)
+![FitMatch Home Page](home-page.png)
 
 ### Fitness Programs
-
-![Fitness Programs](screenshots/fitness-programs.png)
+![Fitness Programs](programs.png)
 
 ### Client Dashboard
-
-![Client Dashboard](screenshots/client-dashboard.png)
+![Client Dashboard](client-dashboard.png)
 
 ### Coach Dashboard
-
-![Coach Dashboard](screenshots/coach-dashboard.png)
+![Coach Dashboard](coach-dashboard.png)
 
 ### Admin Dashboard
-
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](admin-dashboard.png)
 
 ### Registration Page
-
-![Registration Page](screenshots/registration-page.png)
+![Registration Page](registration-page.png)
 
 ---
 
